@@ -2,10 +2,10 @@
 require_once 'ClassAutoLoad.php';
 
 $mailCnt = [
-    'name_from' => 'Alex Okama',
-    'mail_from' => 'alex@gmail.com',
-    'name_to' => 'Mazziq Studios',
-    'mail_to' => 'mazziqstudios@gmail.com',
+    'name_from' => 'Lindsey Mwangi',
+    'mail_from' => 'lindsey.mwangi@strathmore.edu',
+    'name_to' => 'Lindsey Mwangi',
+    'mail_to' => 'lindseymwangi25@gmail.com',
     'subject' => 'Greetings from BBIT DevOps',
     'body' => 'Welcome to <b>BBIT DevOps</b>! This is a new semester of learning and growth.'
 ];
